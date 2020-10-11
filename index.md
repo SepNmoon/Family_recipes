@@ -4,5 +4,5 @@ Set of recipes as given my grandma.
 
 - pizzas (TODO)
 - sauces (TODO)
-- reads (TODO)
+- spreads (TODO)
 
